@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DmitryMass
-- 👀 I’m interested in Front  end 
-- 🌱 I’m currently learning  в  IT-school Hillel
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- 👋 Hi, I’m @DmitryMass (Dmitry Moskalenko) 24 y.o
+- 👀 I’m interested in Front end 
+- 🌱 I’m currently learning in IT-school Hillel
+- 📫 How to reach me https://www.linkedin.com/in/dmitry-moskalenko-69a19a226/
 
-<!---
-DmitryMass/DmitryMass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
