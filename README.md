@@ -5,10 +5,6 @@
 
 - 📄 Know about my experiences [https://jimmyco-portfolio.netlify.app/](https://jimmyco-portfolio.netlify.app/)
 
-<h3 align="center">Real Activity on 09.2023 with (Private repo and Organizations) </h3>
-<p align="center"> <img src="https://i.postimg.cc/bNSY4hXD/2023-09-21-3.png" alt="img"
-       /> </p>
-
 <p align="center"> <img src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="img"
        /> </p>
 
