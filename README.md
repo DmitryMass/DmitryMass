@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **https://t.me/Dmitry_Mass or https://www.linkedin.com/in/dmitry-moskalenko-69a19a226/**
 
-- 📄 Know about my experiences [https://jimmyco-portfolio.netlify.app/](https://jimmyco-portfolio.netlify.app/)
 
 <p align="center"> <img src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="img"
        /> </p>
