@@ -1,4 +1,4 @@
-<h1 align="center">Dmitry Moskalenko (Jimmy-Co)</h1>
+<h1 align="center">Dmitry Moskalenko</h1>
 <h3 align="center">Hi 👋 there, I'm a Ukraine based front end developer focused on crafting clean && user friendly experiences.</h3>
 
 - 📫 How to reach me **https://t.me/Dmitry_Mass or https://www.linkedin.com/in/dmitry-moskalenko-69a19a226/**
