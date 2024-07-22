@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋 there, I'm a Ukraine based front end developer focused on crafting clean && user friendly experiences.</h3>
 
 - 📫 How to reach me **https://t.me/Dmitry_Mass or https://www.linkedin.com/in/dmitry-moskalenko-69a19a226/**
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryMass&show_icons=true&theme=radical)
 
 <p align="center"> <img src="https://images.unsplash.com/photo-1554306274-f23873d9a26c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="img"
        /> </p>
